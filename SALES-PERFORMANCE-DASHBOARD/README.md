@@ -13,7 +13,7 @@ This Power BI dashboard presents an interactive visual analysis of sales data, h
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](./dashboard_screenshot.png)
+![Dashboard Screenshot](./DASHBOARD_SCREENSHOT.jpg)
 
 ---
 
